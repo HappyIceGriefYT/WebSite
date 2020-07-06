@@ -1,0 +1,18 @@
+h1 {
+  color: white;
+  font-size: 46px;
+}
+p {
+ color: red;
+ font-size: 37px;
+}
+h5 {
+  color: white;
+  font-size: 35px;
+}
+script {
+    background: #535E73;
+	width: 200px;
+	height: 200px;
+	padding: 20px 50px;
+}
